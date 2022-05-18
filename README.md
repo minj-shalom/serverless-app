@@ -23,7 +23,7 @@ Serverless App includes following features:
 | v1.0.1  | 2022.05.19 | [bugfix] Support light mode and dark mode for favicon. |
 | v1.0.0  | 2022.05.18 | Create the document for the first time.                |
 
-## Instalation
+## Installation
 
 1. Clone repository
 
@@ -47,11 +47,9 @@ npm install
 yarn
 ```
 
-4. Init amplify
+## Amplify Installation, Configure, and Init
 
-```shell
-amplify init
-```
+To use amplify's functions normally, you need to install amplify, set up the environment, and initialize it. Please refer to [the following post](https://velog.io/@minj_shalom/aws-amplify-0) for more details.
 
 ## Quick start
 
