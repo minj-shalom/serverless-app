@@ -2,6 +2,10 @@
 
 Free and open-source serverless app built with React and AWS Amplify. Developed with ❤️ by [minj_shalom](https://github.com/minj-shalom). If you love our project please star ⭐️ our repo!
 
+[View Demo](http://minj-shalom-serverless-app.s3-website.ap-northeast-2.amazonaws.com/) | [Download](https://github.com/minj-shalom/serverless-app.git) | [More Repositories](https://github.com/minj-shalom?tab=repositories)
+
+[![image](https://user-images.githubusercontent.com/63629356/169035282-ab189d99-8be9-4de6-94fc-c76991fbe399.png)](http://minj-shalom-serverless-app.s3-website.ap-northeast-2.amazonaws.com/)
+
 ## Features
 
 Serverless App includes following features:
@@ -34,6 +38,12 @@ npm install
 
 ```shell
 yarn
+```
+
+4. Init amplify
+
+```shell
+amplify init
 ```
 
 ## Quick start
