@@ -2,7 +2,7 @@
 
 Free and open-source serverless app built with React and AWS Amplify. Developed with ❤️ by [minj_shalom](https://github.com/minj-shalom). If you love our project please star ⭐️ our repo!
 
-[View Demo](http://minj-shalom-serverless-app.s3-website.ap-northeast-2.amazonaws.com/) | [Download](https://github.com/minj-shalom/serverless-app.git) | [More Repositories](https://github.com/minj-shalom?tab=repositories) | [Tech Blog](https://velog.io/@minj_shalom/series/aws-amplify)
+[View Demo](http://minj-shalom-serverless-app.s3-website.ap-northeast-2.amazonaws.com/) | [Download](https://github.com/minj-shalom/serverless-app.git) | [More Repositories](https://github.com/minj-shalom?tab=repositories) | [GitBook](https://minj-shalom.gitbook.io/serverless-app/) | [Tech Blog](https://velog.io/@minj_shalom/series/aws-amplify)
 
 [![image](https://user-images.githubusercontent.com/63629356/169035282-ab189d99-8be9-4de6-94fc-c76991fbe399.png)](http://minj-shalom-serverless-app.s3-website.ap-northeast-2.amazonaws.com/)
 
@@ -59,13 +59,17 @@ Run development server
 yarn start
 ```
 
-## Support
+## GitBook
 
-If you need help, please email [minj9711@gmail.com](mailto:minj9711@gmail.com).
+The user manual for Serverless App can be found in [GitBook](https://minj-shalom.gitbook.io/serverless-app/).
 
 ## Tech Blog
 
 If you would like to get knowledge and information about the technology used in this project, read the ['AWS-Amplify' series on Velog](https://velog.io/@minj_shalom/series/aws-amplify).
+
+## Support
+
+If you need help, please email [minj9711@gmail.com](mailto:minj9711@gmail.com).
 
 ## How can I support developers?
 
