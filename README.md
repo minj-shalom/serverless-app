@@ -82,7 +82,7 @@ If you need help, please email [minj9711@gmail.com](mailto:minj9711@gmail.com).
 
 ## License
 
-Serverless App version is [MIT](https://github.com/minj-shalom/serverless-app/blob/master/LICENSE)-licensed.
+Serverless App version is [MIT](https://github.com/minj-shalom/serverless-app/blob/master/License.md)-licensed.
 
 ## Version
 
